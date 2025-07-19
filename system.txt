@@ -1,0 +1,3 @@
+[INFO] System check complete.
+[ERROR] RAM usage too high.
+[DEBUG] Verbose logging enabled.

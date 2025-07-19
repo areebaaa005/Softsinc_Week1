@@ -1,0 +1,6 @@
+Name,Department,GPA
+Areeba,CS,3.5
+Ali,IT,
+Hina,CS,3.8
+Sara,IT,3.2
+Ahmed,,2.9
